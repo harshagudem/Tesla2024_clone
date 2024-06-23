@@ -14,7 +14,7 @@ function Section({title,formPrice,afterEstSavings,backgroundImg,sub,Button1,Butt
       
       <ButtonGroup>
         <LeftButton>
-            {Button1}
+             {Button1}
         </LeftButton>
         {Button2 && 
         <RightButton>
